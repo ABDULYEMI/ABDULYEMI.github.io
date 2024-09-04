@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdullahi Suleiman's Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Abdullahi Suleiman</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am Abdullahi Suleiman, an aspiring software developer with a strong passion for web development and a keen interest in cloud technology and data analysis. Currently studying Information Systems, I am focused on enhancing my skills in full-stack development and contributing to innovative projects.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Voting App (Dvaso):</strong> A secure voting application designed to be used in university elections. <em>(In progress)</em></li>
+            <li><strong>Portfolio Website:</strong> A personal portfolio showcasing my projects and skills. <a href="https://ABDULYEMI.github.io">Visit Site</a></li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: abdullahiloner123@gmail.com</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Abdullahi Suleiman</p>
+    </footer>
+</body>
+</html>
